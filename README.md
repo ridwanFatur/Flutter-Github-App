@@ -6,3 +6,6 @@ Tech:
 - Bloc StateManagement
 - Dio
 
+Link Demo Youtube:
+- https://www.youtube.com/watch?v=UMwuykkTThY
+
